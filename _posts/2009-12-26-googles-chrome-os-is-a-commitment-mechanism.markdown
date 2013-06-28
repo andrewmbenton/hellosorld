@@ -11,7 +11,7 @@ a lot of people have written about it. Google has now [released the Chrome OS so
 have already [committed to shipping devices][4] running the operating system next year. For a quick refresher on
 what the Chrome OS actually is see this [FAQ][3] or just watch this video:
 
-<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/0QRO3gKj3qw&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0QRO3gKj3qw&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/0QRO3gKj3qw"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0QRO3gKj3qw" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
 
 I have wanted an operating system like this for a long time (read two years). But many people think the
 Chrome OS is [too limited][5], [too old-fashioned][6] or just plain [stupid][7]. I won't respond directly

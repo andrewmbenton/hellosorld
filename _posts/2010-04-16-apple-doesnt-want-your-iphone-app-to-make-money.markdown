@@ -49,5 +49,5 @@ an outcome.
 [5]:http://techcrunch.com/2010/02/18/line2-google-voice/
 [6]:http://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler
 [7]:http://www.joelonsoftware.com/articles/StrategyLetterV.html
-[8]:http://www.youtube.com/watch?v=szrsfeyLzyg&feature=related
+[8]:http://www.youtube.com/watch?v=szrsfeyLzyg
 [9]:/tech/2009/07/28/12-19-apple-blocks-google-voice-on-iphone.html
