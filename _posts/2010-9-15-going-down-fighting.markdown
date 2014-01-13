@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "Going Down Fighting"
-category:
-- android
-- apple
-- carriers
+category: carriers
 ---
 
 Verizon and AT&T are scared. It's probably obvious but I haven't seen or heard it discussed much: **people just aren't making many phone calls anymore**.
