@@ -2,31 +2,33 @@ body {
   font-family: Verdana, Arial, sans-serif;
   color: #606060;
   font-size: .9em;
+  margin: 0;
 }
 .container {
   margin: auto;
   width: 800px;
 }
 #header {
+  background: url(/images/sf.png) no-repeat center top;
+  height: 162px;
   margin: auto;
-  padding: 15px;
-  border: solid 1px #314B9D;
-  background: #8FA5ED;
   overflow: hidden;
 }
 #header a {
-  color: #606060;
+  color: #fff;
 }
 #header a:hover {
   text-decoration: none;
 }
 #title {
   font-family: "Courier", fixed-width;
-  font-size: 2em;
-  margin: 0 auto;
+  font-size: 28pt;
+  color: #fff;
+  margin: 15px auto;
   text-align: center;
 }
 #biline {
+  color: #fff;
   margin: 0 auto;
   font-size: 1em;
   font-weight: normal;
@@ -40,7 +42,7 @@ body {
   padding: 0;
 }
 #sidebar {
-  width: 240px;
+  width: 280px;
   float: right;
   border: solid 1px #606060;
   background: #C9C9C9;
@@ -69,7 +71,7 @@ body {
 }
 #content {
   float: left;
-  width: 518px;
+  width: 450px;
   margin: 15px 5px 0 0;
 }
 #content ul {
