@@ -4,8 +4,8 @@ category: personal
 title: "Make Yourself Uncomfortable"
 ---
 
-In my short time trying to run a web-application startup one thing stands out: I am often very
-comfortable.
+In my short time trying to run a web-application startup I've noticed
+something: I am often very comfortable.
 
 I read a lot of stories about other founders and startups going through times of great stress
 and uncertainty. They wonder if they'll get funded. Or, if they're already funded, they don't

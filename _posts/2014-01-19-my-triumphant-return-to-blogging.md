@@ -8,9 +8,9 @@ It's been more than three years since I last wrote anything here. No, I'm not de
 
 I also started a company called [Bolt][1]. We're building a replacement for the default phone app on Android that happens to be a replacement for your mobile voice service too. Think of it like Skype, but without usernames. Or like FaceTime Audio for Android. We'll eventually build a messaging app to replace carrier SMS as well.
 
-You can read more about Bolt's mission on the Bolt Blog: [Cutting the Telecom Cord][3].
+You can read more about Bolt's mission on the Bolt Blog in a post titled [Cutting the Telecom Cord][3].
 
-Looking back at the last thing I wrote, titled [Going Down Fighting][2], I'm not surprised that I'm building a product to replace carrier voice and messaging service. I am surprised that not much has changed since I wrote it.
+Looking back at the last thing I wrote, [Going Down Fighting][2], I'm not surprised that I'm building a product to replace carrier voice and messaging service. I am surprised that not much has changed since I wrote it.
 
 Mobile carriers have done a much better job of delaying the inevitable future than I anticipated. Perhaps I was a bit naiive. I thought we'd be a lot closer today to thinking of mobile carriers primarily as mobile internet service providers who happen to also give you a phone number and voice service.
 
