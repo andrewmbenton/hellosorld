@@ -1,72 +1,71 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <link type="text/css" href="/css/hellosorld.css" rel="stylesheet">
-    <link href="/images/favicon.png" rel="shortcut icon"/>
-    <title>Benton.io : {{ page.title }}</title>
-    <meta name="description" content="Benton.io is a blog by Andrew Benton, Founder and CEO of Bolt.">
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-9782837-1']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-      })();
-    </script>
-  </head>
-  <body>
-    <div class="container">
-      <div id="header">
-        <h1 id="title"><a href="/">Benton.io</a></h1>
-      </div>
-      
-      <div id="content">
-        {{ content }}
-      </div>
-      
-      <div id="sidebar">
-        
-        <div class="blurb">
-          <h2 class="blurb-heading top-heading"><a href="/">Andrew Benton</a>:</h2>
-          <a href="/"><img id="pic" alt="Andrew Benton, Founder and CEO of Bolt" src="/images/andrew-benton.jpeg" width="96" height="96"/></a>
-          I'm the founder of a startup called <a href="https://bolt.co">Bolt</a>. I previously worked at <a href="https://www.twilio.com">Twilio</a> and before that was a professional <a href="/personal/2009/07/16/why-i-quit-my-phd-in-economics.html">Economics PhD dropout</a>.
-          <br/>
-          <br/>
-	  <a href="https://twitter.com/andrewmbenton" class="twitter-follow-button" data-show-count="false">Follow @andrewmbenton</a>
-          <br/>
-        </div>
-        <div class="blurb">
-          <h2 class="blurb-heading">Stuff I'm Doing (Or Did):</h2>
-          Founder of <a href="https://bolt.co" target="_blank">Bolt</a>
-          <br/>
-          Webmaster for <a href="https://ctcten.com" target="_blank">CTC Ten</a>
-          <br/>
-          Creator of <a href="https://github.com/twilio/twilio-ruby" target="_blank">twilio-ruby</a>
-          <br/>
-        </div>
-        <div class="blurb">
-          <h2 class="blurb-heading">Find Me Elsewhere:</h2>
-          GitHub: <a href="https://github.com/andrewmbenton" target="_blank">andrewmbenton</a>
-          <br/>
-          Lobste.rs: <a href="https://lobste.rs/u/amb" target="_blank">amb</a>
-          <br/>
-          AngelList: <a href="https://angel.co/andrew-benton" target="_blank">Andrew Benton</a>
-          <br/>
-          LinkedIn: <a href="https://www.linkedin.com/in/andrewmbenton" target="_blank">Andrew Benton</a>
-          <br/>
-        </div>
-      </div>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link type="text/css" href="/css/hellosorld.css" rel="stylesheet">
+  <link href="/images/favicon.png" rel="shortcut icon"/>
+  <title>Benton.io : {{ page.title }}</title>
+  <meta name="description" content="Benton.io is a blog by Andrew Benton, Founder and CEO of Bolt.">
+</head>
+<body>
+  <div id="header">
+    <h1 id="title"><a href="/">Benton.io</a></h1>
+  </div>
+  <div class="container">
 
-      <div id="footer">
-        &copy; 2009-2014 Andrew Benton
-      </div>
-
+    <div id="content">
+      {{ content }}
     </div>
 
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <div id="sidebar">
 
-  </body>
+      <div class="blurb">
+        <h2 class="blurb-heading top-heading"><a href="/">Andrew Benton</a>:</h2>
+        <a href="/"><img id="pic" alt="Andrew Benton, Founder and CEO of Bolt" src="/images/andrew-benton.jpeg" width="96" height="96"/></a>
+        I'm the founder of a startup called <a href="https://bolt.co">Bolt</a>. I previously worked at <a href="https://www.twilio.com">Twilio</a> and before that was a professional <a href="/personal/2009/07/16/why-i-quit-my-phd-in-economics.html">Economics PhD dropout</a>.
+        <br/>
+        <br/>
+        <a href="https://twitter.com/andrewmbenton" class="twitter-follow-button" data-show-count="false">Follow @andrewmbenton</a>
+        <br/>
+      </div>
+      <div class="blurb">
+        <h2 class="blurb-heading">Stuff I'm Doing (Or Did):</h2>
+        Founder of <a href="https://bolt.co" target="_blank">Bolt</a>
+        <br/>
+        Webmaster for <a href="https://ctcten.com" target="_blank">CTC Ten</a>
+        <br/>
+        Creator of <a href="https://github.com/twilio/twilio-ruby" target="_blank">twilio-ruby</a>
+        <br/>
+      </div>
+      <div class="blurb">
+        <h2 class="blurb-heading">Find Me Elsewhere:</h2>
+        GitHub: <a href="https://github.com/andrewmbenton" target="_blank">andrewmbenton</a>
+        <br/>
+        Lobste.rs: <a href="https://lobste.rs/u/amb" target="_blank">amb</a>
+        <br/>
+        AngelList: <a href="https://angel.co/andrew-benton" target="_blank">Andrew Benton</a>
+        <br/>
+        LinkedIn: <a href="https://www.linkedin.com/in/andrewmbenton" target="_blank">Andrew Benton</a>
+        <br/>
+      </div>
+    </div>
+  </div>
+
+  <div id="footer">
+    &copy; 2009-2014 Andrew Benton
+  </div>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-9782837-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+  </script>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+</body>
 </html>
