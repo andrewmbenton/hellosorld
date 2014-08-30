@@ -17,7 +17,7 @@ body {
 }
 #header a {
   color: #fff;
-  background: url('https://s3.amazonaws.com/ooomf-com-files/YzgdnQ4TTumS8xR9YRKJ_IMG_2761%20(1).jpg') no-repeat center center;
+  background: url('../images/ocean.jpg') no-repeat center center;
   text-rendering: optimizeLegibility;
   text-shadow: 0px 0px 40px rgba(0,0,0,0.5);
   background-size: cover;
