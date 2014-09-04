@@ -14,27 +14,74 @@ body {
   height: auto;
   margin: auto;
   overflow: hidden;
-}
-#header a {
+  font-size: 42px;
   color: #fff;
+  margin: 0;
+  text-align: center;
+  height: 200px;
+  font-weight: 900;
+  letter-spacing: -0.05em;
   background: url('../images/ocean.jpg') no-repeat center center;
-  text-rendering: optimizeLegibility;
-  text-shadow: 0px 0px 40px rgba(0,0,0,0.5);
   background-size: cover;
+}
+
+#header .container {
+  display: table;
+  vertical-align: middle;
+  height: 100%;
+  max-width: 800px;
+  width: 100%;
+}
+
+#header h1 {
+  font-size: inherit;
+  margin: 0;
+  padding: 0;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#header h1 a {
+  color: #fff;
+  text-rendering: optimizeLegibility;
+  /*text-shadow: 0px 0px 40px rgba(0,0,0,0.25);*/
+  text-shadow: 0px 1px 1px rgba(0,0,0,0.7);
   display: block;
 }
 #header a:hover {
   text-decoration: none;
 }
-#title {
-  font-size: 28pt;
-  color: #fff;
-  margin: 0;
-  text-align: center;
-  line-height: 200px;
-  font-weight: 900;
-  letter-spacing: -0.05em;
+#pic {
+  vertical-align: middle;
+  border-radius: 50%;
+  border: 4px solid rgba(255,255,255,0.5);
+  /*box-shadow: 0px 0px 50px rgba(0,0,0,0.1);*/
+  box-shadow: 0px 1px 1px rgba(0,0,0,0.7);
+  margin-right: 0.5em;
 }
+.links {
+  font-size: 18px;
+  letter-spacing: -0.01em;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.links li {
+  font-weight: normal;
+  text-align: left;
+}
+
+.links li a {
+  color: inherit;
+  border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+
+.links li a:hover,
+.links li a:focus {
+  border-color: white;
+}
+
 #biline {
   color: #fff;
   margin: 0 auto;
@@ -55,7 +102,7 @@ body {
   /* border: solid 1px #606060; */
   background: #fafafa;
   margin: 0;
-  padding: 1em 1.5em;
+  padding: 1.25em 1.5em;
   border-radius: 0.3em;
   /* box-shadow: 0px 2px 0px 1px #f5f5f5; */
   margin-top: 2em;
@@ -63,14 +110,15 @@ body {
 #sidebar a:visited {
   /* color: #314B9D; */
 }
-#pic {
-  float: right;
-  padding: 0 0 5px 5px;
-}
+
 .blurb-heading {
   font-size: 1.2em;
   margin: 0;
-  padding: 1em 0 0.5em;
+  padding: 0 0 0.5em;
+}
+.blurb {
+  font-size: 14px;
+  margin-bottom: 1.25em;
 }
 .top-heading {
   padding-top: 0;
@@ -147,7 +195,4 @@ li span {
 #content ul li a {
   display: table-cell;
   padding-bottom: 0.5em;
-}
-.blurb {
-  font-size: 14px;
 }
