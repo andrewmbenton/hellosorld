@@ -4,7 +4,7 @@ title: "You Don't Understand Insurance"
 category: personal
 ---
 
-It has become clear that most well-educated people do not understand insurance. Not just the complicated mess that is health insurance, but even renter's insurance or traveler's insurance or even things most people don't think of as insurance, like extended warranties on small household appliances. People don't understand the **basics** of insurance.
+It has become clear that most people, no matter how well-educated, do not understand insurance. Not just the complicated mess that is health insurance, but even renter's insurance or traveler's insurance or even things most people don't think of as insurance, like extended warranties on small household appliances. People don't understand the **basics** of insurance.
 
 Insurance is an amazingly simple and powerful concept, but not one that's taught very often outside of economics.
 
@@ -16,7 +16,7 @@ People also tend to focus on the price of insurance, which for certain types of 
 
 ### An Example: Defective Self-driving Cars
 
-Let's imagine a dystopian future where you and four friends all buy the same self-driving car for $10,000. But you know from the internet that exactly 20% of these cars are unrepairably defective and will stop working after two weeks. The car manufacturer won't issue refunds. (Yes, these cars are so good that people keep buying them despite this. Just go with it.)
+Let's imagine a bizarre future where you and four friends all buy the same self-driving car for $10,000. But you know from the internet that exactly 20% of these cars are irreparably defective and will stop working after two weeks. The car manufacturer won't issue refunds. (Yes, these cars are so good that people keep buying them despite this. Just go with it.)
 
 What price would you pay to insure your car with your four friends?
 
@@ -54,6 +54,6 @@ Here's how this breaks down for me:
 
 **Things I don't insure**: shoes/clothes, coffee maker, computer, travel, bicycle, television, refrigerator, smartphone. If I lose or break one of these, I'll either replace it or go without for a while.
 
-**Things I insure**: my car and my health. And if I had a house I would insure it. These are expensive or irreplaceable, so insuring them makes a lot of sense.
+**Things I insure**: my car and my health. And if I had a house I would insure it. These are expensive or irreplaceable, so insuring them makes a lot of sense (or is required by law).
 
 What do you insure? Are there things you pay to insure now that you can afford to self-insure in the future? It's usually a better deal.
