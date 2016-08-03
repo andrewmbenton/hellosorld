@@ -2,3 +2,6 @@
 layout: nil
 permalink: /robots.txt
 ---
+
+User-agent: *
+Disallow:
