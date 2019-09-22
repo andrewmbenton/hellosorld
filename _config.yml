@@ -1,4 +1,4 @@
-destination: ./_site
+destination: ./build
 pygments: true
 lsi: false
-
+exclude: [firebase.json]
