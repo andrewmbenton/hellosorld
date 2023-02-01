@@ -4,7 +4,15 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**"
+      "**/node_modules/**",
+      "_*"
+    ],
+    "redirects": [
+      {
+        "source": "/:path*",
+        "destination": "https://archive.benton.io/:path",
+        "type": 302
+      }
     ]
   }
 }
