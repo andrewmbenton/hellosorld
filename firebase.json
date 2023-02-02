@@ -1,18 +1,34 @@
 {
-  "hosting": {
+  "hosting": [ {
+    "site": "benton-io",
     "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**",
-      "_*"
+      "**/_*"
     ],
     "redirects": [
       {
+        "source": "/",
+        "destination": "https://blog.benton.io/",
+        "type": 302
+      },
+      {
         "source": "/:path*",
         "destination": "https://archive.benton.io/:path",
-        "type": 302
+        "type": 301
       }
     ]
-  }
+  },
+  {
+    "site": "archive-benton-io",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "**/_*"
+    ]
+  } ]
 }
